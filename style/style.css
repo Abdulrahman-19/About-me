@@ -1,0 +1,27 @@
+h1 {
+    background-color: aqua ;
+    color: blueviolet;
+  }
+#as {
+    margin: 10px;
+    color: brown;
+}
+
+p{
+    margin-left: 10px;
+    background-color: chocolate;
+}
+ul {
+    background-color: antiquewhite;
+    padding-left: 45px;
+    inline-size: fit-content;
+}
+ol {
+    background-color: antiquewhite;
+    inline-size: fit-content;
+    color: brown;
+}
+h2#q {
+    color: brown;
+    margin-left: 10px;
+}
