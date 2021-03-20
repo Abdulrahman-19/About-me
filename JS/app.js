@@ -8,12 +8,10 @@ let x = prompt('is my name start with AB letters?');
 let l = 0;
 function myName(){
   if (x.toLocaleLowerCase() === 'yes'){
-  //console.log('correct');
     alert('correct');
     l=l+1;
   }
   else{
-  //console.log('incorrect');
     alert('incorrect');
   }
 }
@@ -22,12 +20,10 @@ function myPlace(){
   let y = prompt('do I live in irbid?');
 
   if (y.toLocaleLowerCase() === 'yes'){
-  //console.log('correct');
     alert('correct');
     l=l+1;
   }
   else{
-  //console.log('incorrect');
     alert('incorrect');
   }
 }
@@ -36,12 +32,10 @@ function myStudy(){
   let g = prompt('did I studed computer engineering in AHU?');
 
   if (g.toLocaleLowerCase() === 'yes'){
-  //console.log('correct');
     alert('correct');
     l=l+1;
   }
   else{
-  //console.log('incorrect');
     alert('incorrect');
   }
 }
@@ -50,12 +44,10 @@ function myHair(){
   let a = prompt('Am I bold?');
 
   if (a.toLocaleLowerCase() === 'no'){
-  //console.log('correct');
     alert('correct');
     l=l+1;
   }
   else{
-  //console.log('incorrect');
     alert('incorrect');
   }
 }
@@ -64,12 +56,10 @@ function myAge(){
   let b = prompt('Am I 27 years old?');
 
   if (b.toLocaleLowerCase() === 'yes'){
-  //console.log('correct');
     alert('correct');
     l=l+1;
   }
   else{
-  //console.log('incorrect');
     alert('incorrect');
   }
 }
